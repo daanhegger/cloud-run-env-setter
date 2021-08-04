@@ -1,5 +1,4 @@
-Cloud Run Environment Variables Setter
----
+# Cloud Run Environment Variables Setter
 
 _Automatically set the enviroment variables of a cloud run instance from a local .env file_
 
