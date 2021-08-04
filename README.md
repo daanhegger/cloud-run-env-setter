@@ -11,7 +11,7 @@ This tool helps by allowing you to set the service's environment variables based
 
 ![Cloud Run Environment Variables Window](img/example.png)
 
-👆 No fun...
+👆 No fun adding all these rows...
 
 ## Usage
 
