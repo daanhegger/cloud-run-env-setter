@@ -3,7 +3,7 @@ const main = require("./main");
 
 // Use commander to make the program user-friendly
 program.version("0.0.1");
-program.description("Automatically set the enviroment variables of a cloud run instance from a local .env file");
+program.description("Automatically set the enviroment variables of a cloud run service from a local .env file");
 program.requiredOption("-s, --service <service>", "cloud run service where you want to update env variables");
 program.requiredOption("-e, --env-file <env-file>", "path to the file containing environment variables");
 program.requiredOption("-r, --region <region>", "region where the service is hosted", "europe-west4");
