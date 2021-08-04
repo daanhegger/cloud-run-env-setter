@@ -9,6 +9,6 @@ but adding their environment variables can take a while. Especially if your serv
 
 This tool helps by allowing you to set the service's environment variables based on a local environment file.
 
-![Cloud Run Environment Variables Window](img/example-small.png)
+![Cloud Run Environment Variables Window](img/example.png)
 
 👆 No fun...
